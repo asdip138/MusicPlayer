@@ -1,0 +1,353 @@
+[
+	{
+		"id": "public_tuijian_winter",
+		"title": "温暖冬日",
+		"channel_order": 10101,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_tuijian_zhongguohaoshengyin",
+		"title": "中国好声音",
+		"channel_order": 10103,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_tuijian_rege",
+		"title": "热歌",
+		"channel_order": 10105,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_tuijian_ktv",
+		"title": "KTV金曲",
+		"channel_order": 10106,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_tuijian_billboard",
+		"title": "Billboard",
+		"channel_order": 10107,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_tuijian_chengmingqu",
+		"title": "成名曲",
+		"channel_order": 10108,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_tuijian_wangluo",
+		"title": "网络红歌",
+		"channel_order": 10109,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_tuijian_kaiche",
+		"title": "开车",
+		"channel_order": 10110,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_tuijian_yingshi",
+		"title": "影视",
+		"channel_order": 10113,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_tuijian_suibiantingting",
+		"title": "随便听听",
+		"channel_order": 10114,
+		"cate_id": "tuijian",
+		"cate": "推荐频道",
+		"cate_order": 1,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_shiguang_jingdianlaoge",
+		"title": "经典老歌",
+		"channel_order": 10201,
+		"cate_id": "shiguang",
+		"cate": "时光频道",
+		"cate_order": 2,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_shiguang_70hou",
+		"title": "70后",
+		"channel_order": 10202,
+		"cate_id": "shiguang",
+		"cate": "时光频道",
+		"cate_order": 2,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_shiguang_80hou",
+		"title": "80后",
+		"channel_order": 10203,
+		"cate_id": "shiguang",
+		"cate": "时光频道",
+		"cate_order": 2,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_shiguang_90hou",
+		"title": "90后",
+		"channel_order": 10204,
+		"cate_id": "shiguang",
+		"cate": "时光频道",
+		"cate_order": 2,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_shiguang_xinge",
+		"title": "火爆新歌",
+		"channel_order": 10205,
+		"cate_id": "shiguang",
+		"cate": "时光频道",
+		"cate_order": 2,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_shiguang_erge",
+		"title": "儿歌",
+		"channel_order": 10206,
+		"cate_id": "shiguang",
+		"cate": "时光频道",
+		"cate_order": 2,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_shiguang_lvxing",
+		"title": "旅行",
+		"channel_order": 10208,
+		"cate_id": "shiguang",
+		"cate": "时光频道",
+		"cate_order": 2,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_shiguang_yedian",
+		"title": "夜店",
+		"channel_order": 10209,
+		"cate_id": "shiguang",
+		"cate": "时光频道",
+		"cate_order": 2,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_fengge_liuxing",
+		"title": "流行",
+		"channel_order": 10301,
+		"cate_id": "fengge",
+		"cate": "风格频道",
+		"cate_order": 3,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_fengge_yaogun",
+		"title": "摇滚",
+		"channel_order": 10302,
+		"cate_id": "fengge",
+		"cate": "风格频道",
+		"cate_order": 3,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_fengge_minyao",
+		"title": "民谣风景",
+		"channel_order": 10303,
+		"cate_id": "fengge",
+		"cate": "风格频道",
+		"cate_order": 3,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_fengge_qingyinyue",
+		"title": "轻音乐",
+		"channel_order": 10304,
+		"cate_id": "fengge",
+		"cate": "风格频道",
+		"cate_order": 3,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_fengge_xiaoqingxin",
+		"title": "小清新",
+		"channel_order": 10305,
+		"cate_id": "fengge",
+		"cate": "风格频道",
+		"cate_order": 3,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_fengge_zhongguofeng",
+		"title": "中国风",
+		"channel_order": 10306,
+		"cate_id": "fengge",
+		"cate": "风格频道",
+		"cate_order": 3,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_fengge_dj",
+		"title": "DJ舞曲",
+		"channel_order": 10308,
+		"cate_id": "fengge",
+		"cate": "风格频道",
+		"cate_order": 3,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_fengge_dianyingyuansheng",
+		"title": "电影原声",
+		"channel_order": 10309,
+		"cate_id": "fengge",
+		"cate": "风格频道",
+		"cate_order": 3,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_xinqing_qingsongjiari",
+		"title": "轻松假日",
+		"channel_order": 10401,
+		"cate_id": "xinqing",
+		"cate": "心情频道",
+		"cate_order": 4,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_xinqing_huankuai",
+		"title": "快乐旋律",
+		"channel_order": 10402,
+		"cate_id": "xinqing",
+		"cate": "心情频道",
+		"cate_order": 4,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_xinqing_tianmi",
+		"title": "甜蜜感受",
+		"channel_order": 10403,
+		"cate_id": "xinqing",
+		"cate": "心情频道",
+		"cate_order": 4,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_xinqing_jimo",
+		"title": "寂寞电波",
+		"channel_order": 10404,
+		"cate_id": "xinqing",
+		"cate": "心情频道",
+		"cate_order": 4,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_xinqing_qingge",
+		"title": "单身情歌",
+		"channel_order": 10405,
+		"cate_id": "xinqing",
+		"cate": "心情频道",
+		"cate_order": 4,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_xinqing_shuhuan",
+		"title": "舒缓节奏",
+		"channel_order": 10406,
+		"cate_id": "xinqing",
+		"cate": "心情频道",
+		"cate_order": 4,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_xinqing_yonglanwuhou",
+		"title": "慵懒午后",
+		"channel_order": 10407,
+		"cate_id": "xinqing",
+		"cate": "心情频道",
+		"cate_order": 4,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_xinqing_shanggan",
+		"title": "伤感调频",
+		"channel_order": 10408,
+		"cate_id": "xinqing",
+		"cate": "心情频道",
+		"cate_order": 4,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_yuzhong_huayu",
+		"title": "华语",
+		"channel_order": 10501,
+		"cate_id": "yuzhong",
+		"cate": "语种频道",
+		"cate_order": 5,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_yuzhong_oumei",
+		"title": "欧美",
+		"channel_order": 10502,
+		"cate_id": "yuzhong",
+		"cate": "语种频道",
+		"cate_order": 5,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_yuzhong_riyu",
+		"title": "日语",
+		"channel_order": 10503,
+		"cate_id": "yuzhong",
+		"cate": "语种频道",
+		"cate_order": 5,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_yuzhong_hanyu",
+		"title": "韩语",
+		"channel_order": 10504,
+		"cate_id": "yuzhong",
+		"cate": "语种频道",
+		"cate_order": 5,
+		"pv_order": 1000000
+	},
+	{
+		"id": "public_yuzhong_yueyu",
+		"title": "粤语",
+		"channel_order": 10505,
+		"cate_id": "yuzhong",
+		"cate": "语种频道",
+		"cate_order": 5,
+		"pv_order": 1000000
+	}
+]
